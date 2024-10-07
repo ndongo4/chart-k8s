@@ -3,7 +3,7 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-10-07T16:25:59.339285544Z"
+    created: "2024-10-07T16:38:41.062034857Z"
     description: A Helm chart for Kubernetes
     digest: 813da2fafc39d4fee9bcfacafe8e23f9593a283a841bfa9ba7eb269503c0316d
     name: datascientest
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://ndongo4.github.io/chart-k8s/datascientest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-07T16:25:59.338771218Z"
+generated: "2024-10-07T16:38:41.06128001Z"
